@@ -1,0 +1,1 @@
+This project is to showcase/practice basic HTML/CSS by creating a recipe page called "Odin Recipes".
